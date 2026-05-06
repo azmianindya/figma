@@ -6,9 +6,7 @@ import Userpic4 from '../assets/Userpic4.png'
 const testimonial = () => {
     return (
         <div className="bg-[#1E0E62] w-full h-screen pt-25 pl-53.75">
-
             <div className="text-4xl font-bold text-white mb-10">Our Happy Client</div>
-
             <div className="grid grid-cols-2 gap-7.5 items-stretch pr-53.75">
 
                 {/* kartu 1 */}

@@ -11,6 +11,7 @@ const Calltoaction = () => {
           <div className="text-[58px] font-bold">Easy to Maintain</div>
           <div className="text-1xl w-129.5">Bootstrap is a widely-used, sleek, intuitive and powerful front-end framework for faster and easier web development.</div>
         </div>
+        
         {/* tombol */}
         <div className="flex flex-row justify-between gap-7.5">
           <div className="w-17.5 h-17.5 bg-[#EA3223] rounded-full ">
