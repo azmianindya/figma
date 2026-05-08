@@ -1,6 +1,6 @@
 const Calltoaction = () => {
   return (
-    <div className="bg-[url('./assets/bg-call.png')] w-full h-full bg-cover bg-center">
+    <div className="bg-[url('./assets/call/bg-call.png')] w-full h-full bg-cover bg-center">
 
         {/* konten */}
       <div className="flex flex-col h-screen items-center justify-center gap-14.5">

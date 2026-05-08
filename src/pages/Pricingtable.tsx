@@ -1,4 +1,4 @@
-import bgPricing from '../assets/bg-pricing.png'
+import bgPricing from '../assets/pricing/bg-pricing.png'
 import { Check } from 'lucide-react';
 
 const Pricingtable = () => {

@@ -1,7 +1,7 @@
-import Userpic1 from '../assets/Userpic1.png'
-import Userpic2 from '../assets/Userpic2.png'
-import Userpic3 from '../assets/Userpic3.png'
-import Userpic4 from '../assets/Userpic4.png'
+import Userpic1 from '../assets/testi/Userpic1.png'
+import Userpic2 from '../assets/testi/Userpic2.png'
+import Userpic3 from '../assets/testi/Userpic3.png'
+import Userpic4 from '../assets/testi/Userpic4.png'
 
 const testimonial = () => {
     return (

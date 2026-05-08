@@ -1,5 +1,5 @@
-import bgFeatures from '../assets/bg-features.png'
-import mockupFeatures from '../assets/mockup-features.png'
+import bgFeatures from '../assets/featuress/bg-features.png'
+import mockupFeatures from '../assets/featuress/mockup-features.png'
 import { VscCommentDiscussion } from "react-icons/vsc";
 import { IoDiamondOutline } from "react-icons/io5";
 import { BsCircleFill } from "react-icons/bs";

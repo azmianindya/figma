@@ -1,8 +1,8 @@
-import Team1 from '../assets/Team1.png'
-import Team2 from '../assets/Team2.png'
-import Team3 from '../assets/Team3.png'
-import Team4 from '../assets/Team4.png'
-import Team5 from '../assets/Team5.png'
+import Team1 from '../assets/team/Team1.png'
+import Team2 from '../assets/team/Team2.png'
+import Team3 from '../assets/team/Team3.png'
+import Team4 from '../assets/team/Team4.png'
+import Team5 from '../assets/team/Team5.png'
 import { FaTwitter } from "react-icons/fa";
 import { AiFillFacebook } from "react-icons/ai";
 import { FaDribbble } from "react-icons/fa6";
